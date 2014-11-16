@@ -1,6 +1,7 @@
 /*! http://responsiveslides.com v1.53 by @viljamis */
 
 .rslides {
+
   position: relative;
   list-style: none;
   overflow: hidden;
@@ -30,3 +31,8 @@
 	border: 0;
 	width: 100%;
   }
+
+.image-slider{
+  max-width: 800px;
+  margin: 0 auto;
+}
